@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Atividade_Kotlin_2</string>
+    <string name="title_frete">Calculadora de Frete Industrial</string>
+    <string name="hint_regiao">Região de destino (Ex: Sul, Norte…)</string>
+    <string name="hint_valor_mercadoria">Valor da mercadoria</string>
+    <string name="btn_calcular">Calcular Frete</string>
+    <string name="label_resultado">Resumo do Frete</string>
+    <string name="default_percentual">Percentual aplicado: --</string>
+    <string name="default_valor_frete">Valor do frete: R$ 0,00</string>
+    <string name="default_valor_total">Valor total: R$ 0,00</string>
+    <string name="format_percentual">Percentual aplicado: %d%%</string>
+    <string name="format_valor_frete">Valor do frete: R$ %.2f</string>
+    <string name="format_valor_total">Valor total com frete: R$ %.2f</string>
+    <string name="error_empty_fields">Por favor, preencha todos os campos</string>
+    <string name="error_regiao_invalida">Região não reconhecida. Tente: Sul, Norte, etc.</string>
+</resources>
